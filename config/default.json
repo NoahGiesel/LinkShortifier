@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://noah:ciaociaociao@cluster0-zkbsa.mongodb.net/test?retryWrites=true&w=majority",
-    "baseUrl":  "http://localhost:3000"
+  "mongoURI": "mongodb+srv://noah:ciaociaociao@cluster0-zkbsa.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:3000"
 }

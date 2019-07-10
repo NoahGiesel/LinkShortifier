@@ -1,22 +1,15 @@
 {
-  "name": "linkshorter",
+  "name": "url_shortner_service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "dev":"nodemon index"
+    "dev": "nodemon index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NoahGiesel/LinkShortifier.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NoahGiesel/LinkShortifier/issues"
-  },
-  "homepage": "https://github.com/NoahGiesel/LinkShortifier#readme",
   "dependencies": {
     "config": "^3.1.0",
     "express": "^4.17.1",
